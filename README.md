@@ -5,7 +5,8 @@ vim
 
 minimal modules set.
 
-* sh install.sh
-* submodule init
-* submodule update
-* mv .vimrc ~/.vimrc
+* git clone https://github.com/msimonin/vim.git
+* cd vim && sh install.sh
+* mv install dir to ~/.vim and .vimrc to your home
+
+
