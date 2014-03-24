@@ -20,4 +20,8 @@ let g:solarized_termcolors=256
 set background=dark
 colorscheme solarized
 
+# javascript syntax on json
 autocmd BufNewFile,BufRead *.json set ft=javascript
+
+# ruby syntax on different files
+au BufRead,BufNewFile {Capfile,Gemfile,Rakefile,Thorfile,config.ru,.caprc,.irbrc,irb_t    empfile*} set ft=ruby
