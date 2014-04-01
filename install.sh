@@ -28,5 +28,5 @@ cd ~/.vim
 git submodule init
 git submodule update
 
-mv ~/.vim/.vimrc ~/.
+cp ~/.vim/.vimrc ~/.
 
