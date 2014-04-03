@@ -7,6 +7,8 @@ minimal modules set.
 
 ## installation 
 
-curl https://raw.githubusercontent.com/msimonin/vim/master/install.sh | bash
+```
+curl https://raw.githubusercontent.com/msimonin/vim/master/install.sh | sh
+```
 
 
