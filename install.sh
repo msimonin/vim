@@ -20,8 +20,7 @@ git clone https://github.com/msimonin/vim ~/.vim
 
 echo "$log installing pathogen"
 mkdir -p ~/.vim/autoload ~/.vim/bundle; 
-curl -Sso ~/.vim/autoload/pathogen.vim \
-https://raw.github.com/tpope/vim-pathogen/master/autoload/pathogen.vim
+curl -Sso ~/.vim/autoload/pathogen.vim https://raw.github.com/tpope/vim-pathogen/master/autoload/pathogen.vim
 
 echo "$log installing vim plugins"
 cd ~/.vim
