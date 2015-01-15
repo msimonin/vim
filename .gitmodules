@@ -25,3 +25,6 @@
 [submodule "bundle/jade"]
 	path = bundle/jade
 	url = http://github.com/digitaltoad/vim-jade.git
+[submodule "bundle/vim-coffee-script"]
+	path = bundle/vim-coffee-script
+	url = https://github.com/kchmck/vim-coffee-script.git
