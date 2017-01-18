@@ -34,3 +34,6 @@
 [submodule "bundle/vim-scala"]
 	path = bundle/vim-scala
 	url = https://github.com/derekwyatt/vim-scala.git
+[submodule "/Users/msimonin/.vim/bundle/vim-better-whitespace"]
+	path = /Users/msimonin/.vim/bundle/vim-better-whitespace
+	url = git://github.com/ntpeters/vim-better-whitespace.git
